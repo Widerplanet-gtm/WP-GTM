@@ -1,2 +1,6 @@
 homepage: 'www.widerplanet.co.kr/'
 documentation: 'github.com/Widerplanet-gtm/WP_tracking_tag'
+versions:
+  # Latest version
+  - sha: 18e1c6f21d4a6a5f53741f0081a3e8202d027cfd
+    changeNotes: Initial release.
