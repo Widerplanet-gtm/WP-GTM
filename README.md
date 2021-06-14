@@ -1,6 +1,6 @@
 # Widerplanet Tracking tag
 
-[Document_link](https://github.com/Widerplanet-gtm/WP_tracking_tag/blob/master/gtm_guide.pdf)
+[Document_link](https://github.com/Widerplanet-gtm/WP-GTM/blob/main/gtm_guide.pdf)
 
 ``` javascript
 const copyFromWindow = require('copyFromWindow');
