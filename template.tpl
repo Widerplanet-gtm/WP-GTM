@@ -18,7 +18,7 @@ ___INFO___
     "id": "brand_dummy",
     "displayName": ""
   },
-  "description": "wp_items : EventType(Item, Cart, PurchaseComplete) - Required value\nex)\nvar wp_items \u003d wp_items || [];\nwp_items.push({i:\"p_id\", t:\"p_name\", p:\"10000\", q:\"2\"});",
+  "description": "Manual\nhttps://github.com/Widerplanet-gtm/WP-GTM/raw/main/gtm_guide.pdf",
   "containerContexts": [
     "WEB"
   ]
@@ -313,6 +313,6 @@ setup: ''
 
 ___NOTES___
 
-Created on 2021. 5. 24. 오전 11:58:46
+Created on 2021. 6. 14. 오후 2:55:41
 
 
